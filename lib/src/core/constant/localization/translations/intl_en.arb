@@ -1,0 +1,31 @@
+{
+    "@@locale": "en",
+    "appTitle": "rick_and_morty",
+    "@appTitle": {
+      "description": "The title of the application"
+    },
+    "characterNotFound": "Couldn't find character",
+    "loadDataError": "Failed to load data",
+    "reload": "Reload",
+    "gender": "Gender",
+    "species": "Species",
+    "status": "Status",
+    "updateFavoriteError": "Something went wrong",
+    "emptyData": "There is no content",
+    "name": "Name",
+    "unknown": "Unknown",
+    "male": "Male",
+    "female": "Female",
+    "alive": "Alive",
+    "dead": "Dead",
+    "human": "Human",
+    "alien": "Alien",
+    "humanoid": "Humanoid",
+    "poopybutthole": "Poopybutthole",
+    "mythological": "Mythological",
+    "animal": "Animal",
+    "robot": "Robot",
+    "cronenberg": "Cronenberg",
+    "disease": "Disease",
+    "mythologicalCreature": "Mythological Creature"
+  }
